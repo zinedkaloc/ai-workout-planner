@@ -2,6 +2,10 @@
 
 This is an AI-powered workout planner app built using Flutter for the frontend, Altogic for the backend and integrated with OpenAI's ChatGPT-3 APIs. The app allows users to create custom workout routines based on their individual needs, preferences, and goals.
 
+## Screenshots
+
+![AI Workout Planner](https://i.imgur.com/fjvVpBd.png)
+
 ## Getting Started
 
 To get started with the app, follow these steps:
@@ -33,10 +37,6 @@ flutter run
 - Flutter
 - Altogic
 - OpenAI
-
-## Screenshots
-
-![AI Workout Planner](https://i.imgur.com/fjvVpBd.png)
 
 ## License
 

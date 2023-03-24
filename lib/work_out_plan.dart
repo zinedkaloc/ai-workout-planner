@@ -19,7 +19,7 @@ class _WorkoutPlanFormState extends State<WorkoutPlanForm> {
   String workoutType = 'Cardio';
   String fitnessLevel = 'Beginner';
   String workoutFrequency = '1-2 times per week';
-  int workoutDuration = 7;
+  int workoutDuration = 3;
   // Define loading and response state
   bool isLoading = false;
   bool isSubmitted = false;
@@ -478,9 +478,17 @@ class Message {
 
 List<String> workoutTypes = [
   'Cardio',
+  'Weightlifting',
   'Strength training',
   'Yoga',
   'Stretching',
   'Other'
 ];
-List<String> workoutTypeIcons = ["🏃‍♂️", "🏋️‍♂️", "🧘‍♂️", "🤸‍♂️", "🤷‍♂️"];
+List<String> workoutTypeIcons = [
+  "🏃‍♂️",
+  "🏋️‍♂️",
+  "💪",
+  "🧘‍♂️",
+  "🤸‍♂️",
+  "🤷‍♂️"
+];

@@ -8,6 +8,8 @@ This is an AI-powered workout planner app built using Flutter for the frontend, 
 
 ## Getting Started
 
+> After cloning the backend from Altogic Marketplace you need to set up the backend APIs and add the necessary API endpoints to the `work_out_plan.dart` file the line 43.
+
 To get started with the app, follow these steps:
 
 1. Clone this repository to your local machine
